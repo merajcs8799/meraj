@@ -342,3 +342,9 @@ http://45.249.187.238:8081/hls/tsl-3.m3u8
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 ,Star Movies Select HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/114.m3u8
+#EXTINF:-1 ,Sony Ten 1 new
+http://103.205.133.14/hls/ten1.m3u8
+#EXTINF:-1 ,Sony Ten 3 new
+http://103.205.133.14/hls/ten3.m3u8
+#EXTINF:-1 , Sony 8 new
+http://103.205.133.14/hls/sony8.m3u8
