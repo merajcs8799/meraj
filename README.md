@@ -340,3 +340,5 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 ,Sony Ten 2 new
 http://103.205.133.14/hls/ten2.m3u8
+#EXTINF:-1 ,Star Movies Select HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/114.m3u8
