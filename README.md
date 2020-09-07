@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",Sangsad TV 
-https://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",Asian TV
 https://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",,GTV 
