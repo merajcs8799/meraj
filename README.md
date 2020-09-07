@@ -254,15 +254,13 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/72.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 #EXTINF:-1 group-title="Adventure",,Travel XP Kitv
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
-#EXTINF:-1 ,Star Gold 2
+#EXTINF:-1 group-title="Hindi",Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1 ,Sony Ten 2 new
+#EXTINF:-1 group-title="Sports",Sony Ten 2 new
 http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1 ,Star Movies Select HD✊
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/114.m3u8
-#EXTINF:-1 ,Sony Ten 1 new
+#EXTINF:-1 group-title="Sports",Sony Ten 1 new
 http://103.205.133.14/hls/ten1.m3u8
-#EXTINF:-1 ,Sony Ten 3 new
+#EXTINF:-1 group-title="Sports",Sony Ten 3 new
 http://103.205.133.14/hls/ten3.m3u8
-#EXTINF:-1 , Sony 8 new
+#EXTINF:-1 group-title="Indian Bangla", Sony 8 new
 http://103.205.133.14/hls/sony8.m3u8
