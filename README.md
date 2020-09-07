@@ -348,3 +348,64 @@ http://103.205.133.14/hls/ten1.m3u8
 http://103.205.133.14/hls/ten3.m3u8
 #EXTINF:-1 , Sony 8 new
 http://103.205.133.14/hls/sony8.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",Sangsad TV 
+https://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:-1 ,Anando TV
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/16.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",Asian TV
+https://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-1 ,Atn Islamic Tv
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/63.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",,GTV 
+http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/01.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",3.DBC News 
+https://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",4.News 24 
+https://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",5.JAMUNA TV 
+https://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",6.Shomoy TV 
+https://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",7.Independent 
+https://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",8.ATN News 
+https://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",9.Channel 9 HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/04.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",9.Channel 9 
+https://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",10.CHANNEL 24 
+#EXTINF:-1 ,CHANNEL 24
+https://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 ,CHANNEL 24
+https://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",11.Channel I 
+https://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",12.ATN Bangla 
+https://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",13.SATV 
+https://robi.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",14.RTV 
+https://robi.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",15.NTV 
+https://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",16.Banglavision 
+https://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",17.Boishakhi 
+https://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",18.Maasranga 
+https://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",20.Sangsad TV 
+https://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:-1 ,Ekushey TV
+https://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",22.My TV HD 
+https://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",23.Gaan Bangla 
+https://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
