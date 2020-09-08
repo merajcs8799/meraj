@@ -1,98 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://scontent.fdac32-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/97077710_3018016651622480_665614171605303296_n.jpg?_nc_cat=104&_nc_sid=7aed08&efg=eyJpIjoiYiJ9&_nc_eui2=AeGXkwEm6Ai3nOcUmU4ZbZ0o6Rs6m6sN82bpGzqbqw3zZtica8Lh6Sz2QEVLeNvzMkpddCr18BkoOCvtx368tHgV&_nc_ohc=SI_1qwNlLsUAX_Vk2_A&_nc_ht=scontent.fdac32-1.fna&tp=14&oh=dee652af4537d08c074dac0ade0ca822&oe=5F7AFAAB" group-title="Bangladeshi by Meraj CS 鉂わ笍",Asian TV
-https://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",,GTV 
-http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",3.DBC News 
-https://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",4.News 24 
-https://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",5.JAMUNA TV 
-https://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",6.Shomoy TV 
-https://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",7.Independent 
-https://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",8.ATN News 
-https://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",9.Channel 9 
-https://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",10.CHANNEL 24 
-#EXTINF:-1 ,CHANNEL 24
-https://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",11.Channel I 
-https://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",12.ATN Bangla 
-https://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",13.SATV 
-https://robi.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",14.RTV 
-https://robi.iptv.digijadoo.net/live/rtv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",15.NTV 
-https://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",16.Banglavision 
-https://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",17.Boishakhi 
-https://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",18.Maasranga 
-https://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
-https://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",20.Sangsad TV 
-https://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 ,Ekushey TV
-https://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",22.My TV HD 
-https://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",23.Gaan Bangla 
-https://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",Zee Bangla 
-https://robi.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD 
-https://robi.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",Colors Bangla HD 
-https://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Jalsha Movies 
-https://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-https://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath 
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony AathSony
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:-1 tvg-logo="none" group-title="Sports",DD Sports 
-https://robi.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="Sports",Ads Sports 
 http://212.47.252.54/hls/stream.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",Nick Bangla 
-https://robi.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",Cbeebies 
-https://robi.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Hindi",Star Plus HD
-https://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi",Star Gold HD 
-https://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi",Zee Cinema HD 
-https://robi.iptv.digijadoo.net/live/zee_cinema_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi",Zee Cinema 
-https://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Hindi",Star Bharat 
-https://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla 
-https://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="Music",Dhoom Music 
-https://robi.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",Zing 
-https://robi.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",MNX 
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="English",Lotus Macaw 
-https://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="English",Hits 
 http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="English",History TV HD 
-https://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 [Extra]
 http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD [Extra]
@@ -115,14 +34,10 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
-#EXTINF:-1 group-title="Indian Bangla",Ruposhi Bangla
-https://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 group-title="Hindi",Sony TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #EXTINF:-1 group-title="Hindi",Sony SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1 ,National Geographic
-https://robi.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 group-title="Hindi",& Flix HD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 group-title="Sports" ,Sony Ten 1 HD Ebox
@@ -153,18 +68,8 @@ http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi",Star Gold International
-https://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Hindi",Star Plus
-https://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Hindi",Sony Max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/OckuFU2.png" group-title="Music", Zoom
-https://robi.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Music",MTV Beats India
-https://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="Kids",Nick Sonic
-https://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Adventure",Discovery HD 馃懟
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Adventure",Discovery HD 馃懟
