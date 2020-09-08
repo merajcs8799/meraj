@@ -1,4 +1,168 @@
 #EXTM3U
+#EXTINF:-1 group-title="Shari",MAASRANGA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8
+#EXTINF:-1 group-title="Shari",SOMOY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/14.m3u8
+#EXTINF:-1 group-title="Shari",NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
+#EXTINF:-1 group-title="Shari",MY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/18.m3u8
+#EXTINF:-1 group-title="Shari",JAMUNA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/13.m3u8
+#EXTINF:-1 group-title="Shari",GAZI TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8
+#EXTINF:-1 group-title="Shari",GAAN BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/69.m3u8
+#EXTINF:-1 group-title="Shari",EKUSHEY TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8
+#EXTINF:-1 group-title="Shari",CHANNEL 9
+http://iptv.kitv.live:1935/live/Shari/MTV-P/7.m3u8
+#EXTINF:-1 group-title="Shari",CHANNEL 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/16.m3u8
+#EXTINF:-1 group-title="Shari",RTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8
+#EXTINF:-1 group-title="Shari",BANGLA VISION
+http://iptv.kitv.live:1935/live/Shari/MTV-P/17.m3u8
+#EXTINF:-1 group-title="Shari",EKATTOR TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
+#EXTINF:-1 group-title="Shari",INDEPENDENT TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/12.m3u8
+#EXTINF:-1 group-title="Shari",ZEE BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
+#EXTINF:-1 group-title="Shari",STAR JALSHA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
+#EXTINF:-1 group-title="Shari",ZING
+http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
+#EXTINF:-1 group-title="Shari",ZEE TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/28.m3u8
+#EXTINF:-1 group-title="Shari",ZEE CINEMA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/29.m3u8
+#EXTINF:-1 group-title="Shari",TRAVEL XP HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
+#EXTINF:-1 group-title="Shari",TLC HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
+#EXTINF:-1 group-title="Shari",STAR UTSAV MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/37.m3u8
+#EXTINF:-1 group-title="Shari",Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+#EXTINF:-1 group-title="Shari",Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+#EXTINF:-1 group-title="Shari",STAR SPORTS FIRST
+http://iptv.kitv.live:1935/live/Shari/MTV-P/55.m3u8
+#EXTINF:-1 group-title="Shari",STAR SPORTS 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+#EXTINF:-1 group-title="Shari",STAR PLUS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
+#EXTINF:-1 group-title="Shari",STAR MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/43.m3u8
+#EXTINF:-1 group-title="Shari",STAR GOLD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/32.m3u8
+#EXTINF:-1 group-title="Shari",SONY YAY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
+#EXTINF:-1 group-title="Shari",SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
+#EXTINF:-1 group-title="Shari",SONY TEN 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+#EXTINF:-1 group-title="Shari",SONY SIX HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/49.m3u8
+#EXTINF:-1 group-title="Shari",SONY PIX HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/39.m3u8
+#EXTINF:-1 group-title="Shari",SONY HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
+#EXTINF:-1 group-title="Shari",SONY ESPN
+http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8
+#EXTINF:-1 group-title="Shari",SONY AATH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
+#EXTINF:-1 group-title="Shari",SETMAX HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
+#EXTINF:-1 group-title="Shari",SATV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/8.m3u8
+#EXTINF:-1 group-title="Shari",SANGEET BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/70.m3u8
+#EXTINF:-1 group-title="Shari",PTV Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
+#EXTINF:-1 group-title="Shari",NICK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
+#EXTINF:-1 group-title="Shari",NAT GEO WILD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/60.m3u8
+#EXTINF:-1 group-title="Shari",NAGORIK TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/3.m3u8
+#EXTINF:-1 group-title="Shari",MUSIC MASTI
+http://iptv.kitv.live:1935/live/Shari/MTV-P/78.m3u8
+#EXTINF:-1 group-title="Shari",MUSIC INDIA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
+#EXTINF:-1 group-title="Shari",MUSIC BOX
+http://iptv.kitv.live:1935/live/Shari/MTV-P/89.m3u8
+#EXTINF:-1 group-title="Shari",MTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8
+#EXTINF:-1 group-title="Shari",MN HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
+#EXTINF:-1 group-title="Shari",Kolkata TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
+#EXTINF:-1 group-title="Shari",JALWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/82.m3u8
+#EXTINF:-1 group-title="Shari",JALSHA MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
+#EXTINF:-1 group-title="Shari",Hum Sitaray
+http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
+#EXTINF:-1 group-title="Shari",Hum Masala
+http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
+#EXTINF:-1 group-title="Shari",History 2
+http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
+#EXTINF:-1 group-title="Shari",HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
+#EXTINF:-1 group-title="Shari",ETC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+#EXTINF:-1 group-title="Shari",E24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
+#EXTINF:-1 group-title="Shari",DW
+http://iptv.kitv.live:1935/live/Shari/MTV-P/101.m3u8
+#EXTINF:-1 group-title="Shari",DURONTO TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
+#EXTINF:-1 group-title="Shari",DSPORTS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+#EXTINF:-1 group-title="Shari",DISENY CARTOON
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+#EXTINF:-1 group-title="Shari",DISCOVERY ENGLISH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
+#EXTINF:-1 group-title="Shari",DEPTO BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/5.m3u8
+#EXTINF:-1 group-title="Shari",DD BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/57.m3u8
+#EXTINF:-1 group-title="Shari",COLORS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
+#EXTINF:-1 group-title="Shari",CHANNEL I
+http://iptv.kitv.live:1935/live/Shari/MTV-P/4.m3u8
+#EXTINF:-1 group-title="Shari",CARTOON NETWORK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
+#EXTINF:-1 group-title="Shari",BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/19.m3u8
+#EXTINF:-1 group-title="Shari",Bflix MOVIE
+http://iptv.kitv.live:1935/live/Shari/MTV-P/35.m3u8
+#EXTINF:-1 group-title="Shari",BBC WORLD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/56.m3u8
+#EXTINF:-1 group-title="Shari",BBC Lifestyle
+http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
+#EXTINF:-1 group-title="Shari",BBC EARTH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
+#EXTINF:-1 group-title="Shari",B4U MUSIC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
+#EXTINF:-1 group-title="Shari",B4U MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
+#EXTINF:-1 group-title="Shari",AXN HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
+#EXTINF:-1 group-title="Shari",ATN BANGLA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/10.m3u8
+#EXTINF:-1 group-title="Shari",Aljazeera HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/58.m3u8
+#EXTINF:-1 group-title="Shari",AKASH AATH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
+#EXTINF:-1 group-title="Shari",9X JALWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
+#EXTINF:-1 group-title="Shari",8XM
+http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
+#EXTINF:-1 group-title="Shari",&Flix
+http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath 
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony AathSony
@@ -395,207 +559,149 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Hum Sitary
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
-#EXTINF:-1,MAASRANGA TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8
-#EXTINF:-1,SOMOY TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/14.m3u8
-#EXTINF:-1,NTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
-#EXTINF:-1,MY TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/18.m3u8
-#EXTINF:-1,JAMUNA TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/13.m3u8
-#EXTINF:-1,GAZI TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8
-#EXTINF:-1,GAAN BANGLA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/69.m3u8
-#EXTINF:-1,EKUSHEY TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8
-#EXTINF:-1,CHANNEL 9
-http://iptv.kitv.live:1935/live/Shari/MTV-P/7.m3u8
-#EXTINF:-1,CHANNEL 24
-http://iptv.kitv.live:1935/live/Shari/MTV-P/16.m3u8
-#EXTINF:-1,RTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8
-#EXTINF:-1,BANGLA VISION
-http://iptv.kitv.live:1935/live/Shari/MTV-P/17.m3u8
-#EXTINF:-1,EKATTOR TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
-#EXTINF:-1,INDEPENDENT TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/12.m3u8
-#EXTINF:-1,ZEE BANGLA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
-#EXTINF:-1,STAR JALSHA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
-#EXTINF:-1,ZING
-http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
-#EXTINF:-1,ZEE TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/28.m3u8
-#EXTINF:-1,ZEE CINEMA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/29.m3u8
-#EXTINF:-1,TRAVEL XP HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
-#EXTINF:-1,TLC HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
-#EXTINF:-1,STAR UTSAV MOVIES
-http://iptv.kitv.live:1935/live/Shari/MTV-P/37.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
-#EXTINF:-1,STAR SPORTS FIRST
-http://iptv.kitv.live:1935/live/Shari/MTV-P/55.m3u8
-#EXTINF:-1,STAR SPORTS 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
-#EXTINF:-1,STAR PLUS
-http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
-#EXTINF:-1,STAR MOVIES
-http://iptv.kitv.live:1935/live/Shari/MTV-P/43.m3u8
-#EXTINF:-1,STAR GOLD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/32.m3u8
-#EXTINF:-1,SONY YAY
-http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
-#EXTINF:-1,SONY TEN 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
-#EXTINF:-1,SONY TEN 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
-#EXTINF:-1,SONY SIX HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/49.m3u8
-#EXTINF:-1,SONY PIX HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/39.m3u8
-#EXTINF:-1,SONY HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
-#EXTINF:-1,SONY ESPN
-http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8
-#EXTINF:-1,SONY AATH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
-#EXTINF:-1,SETMAX HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
-#EXTINF:-1,SATV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/8.m3u8
-#EXTINF:-1,SANGEET BANGLA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/70.m3u8
-#EXTINF:-1,PTV Sports
-http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
-#EXTINF:-1,NICK
-http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/60.m3u8
-#EXTINF:-1,NAGORIK TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/3.m3u8
-#EXTINF:-1,MUSIC MASTI
-http://iptv.kitv.live:1935/live/Shari/MTV-P/78.m3u8
-#EXTINF:-1,MUSIC INDIA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
-#EXTINF:-1,MUSIC BOX
-http://iptv.kitv.live:1935/live/Shari/MTV-P/89.m3u8
-#EXTINF:-1,MTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8
-#EXTINF:-1,MN HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
-#EXTINF:-1,Kolkata TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
-#EXTINF:-1,JALWA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/82.m3u8
-#EXTINF:-1,JALSHA MOVIES
-http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
-#EXTINF:-1,Hum Sitaray
-http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
-#EXTINF:-1,Hum Masala
-http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
-#EXTINF:-1,History 2
-http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
-#EXTINF:-1,HBO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
-#EXTINF:-1,ETC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
-#EXTINF:-1,E24
-http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
-#EXTINF:-1,DW
-http://iptv.kitv.live:1935/live/Shari/MTV-P/101.m3u8
-#EXTINF:-1,DURONTO TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
-#EXTINF:-1,DSPORTS
-http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
-#EXTINF:-1,DISENY CARTOON
-http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
-#EXTINF:-1,DISCOVERY ENGLISH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
-#EXTINF:-1,DEPTO BANGLA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/5.m3u8
-#EXTINF:-1,DD BANGLA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/57.m3u8
-#EXTINF:-1,COLORS
-http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
-#EXTINF:-1,CHANNEL I
-http://iptv.kitv.live:1935/live/Shari/MTV-P/4.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
-#EXTINF:-1,BTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/19.m3u8
-#EXTINF:-1,Bflix MOVIE
-http://iptv.kitv.live:1935/live/Shari/MTV-P/35.m3u8
-#EXTINF:-1,BBC WORLD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/56.m3u8
-#EXTINF:-1,BBC Lifestyle
-http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
-#EXTINF:-1,BBC EARTH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
-#EXTINF:-1,B4U MUSIC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
-#EXTINF:-1,B4U MOVIES
-http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
-#EXTINF:-1,AXN HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
-#EXTINF:-1,ATN BANGLA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/10.m3u8
-#EXTINF:-1,Aljazeera HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/58.m3u8
-#EXTINF:-1,AKASH AATH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
-#EXTINF:-1,9X JALWA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
-#EXTINF:-1,8XM
-http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
-#EXTINF:-1,&Flix
-http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
-#EXTINF:-1,VOD: Bulbbul
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/128.MP4
-#EXTINF:-1,VOD: Shakuntala Devi
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/125.MP4
-#EXTINF:-1,VOD: Greyhound
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/124.MP4
-#EXTINF:-1,VOD: Dil Bechara
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/126.MP4
-#EXTINF:-1,VOD: Chhichhore
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/127.MP4
-#EXTINF:-1,VOD: The Jungle Book
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/119.MP4
-#EXTINF:-1,VOD: Machine Gun Preacher
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/121.MP4
-#EXTINF:-1,VOD: Hey Bhogoban (BANGLA)
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/123.MP4
-#EXTINF:-1,VOD: Eye in the Sky
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/122.MP4
-#EXTINF:-1,VOD: Descendants 3
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/120.MP4
-#EXTINF:-1,VOD: The Old Guard
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/118.MP4
-#EXTINF:-1,VOD: Den of Thieves
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/117.MP4
-#EXTINF:-1,VOD: 365 Days
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/116.MP4
-#EXTINF:-1,VOD: Safe
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/115.MP4
-#EXTINF:-1,VOD: Underwater
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/114.MP4
-#EXTINF:-1,VOD: The Scorpion King-Book of Souls
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/113.MP4
-#EXTINF:-1,VOD: Son of God
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/111.MP4
-#EXTINF:-1,VOD: Angel Has Fallen
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/112.MP4
-#EXTINF:-1,VOD: Commando 3
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/110.MP4
-#EXTINF:-1,VOD: Baaghi 3
-http://iptv.kitv.live:1935/movie/Shari/MTV-P/109.MP4
+#EXTINF:-1 group-title="CTGIPTV",MAASRANGA TV
+http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
+#EXTINF:-1 group-title="CTGIPTV",GAZI TV
+http://ctgiptv.kitv.live:1935/live/test/test1/9.ts
+#EXTINF:-1 group-title="CTGIPTV",DEPTO BANGLA
+http://ctgiptv.kitv.live:1935/live/test/test1/13.ts
+#EXTINF:-1 group-title="CTGIPTV",NAGORIK-TV
+http://ctgiptv.kitv.live:1935/live/test/test1/6.ts
+#EXTINF:-1 group-title="CTGIPTV",Gaan Bangla
+http://ctgiptv.kitv.live:1935/live/test/test1/5.ts
+#EXTINF:-1 group-title="CTGIPTV",DURONTO-TV
+http://ctgiptv.kitv.live:1935/live/test/test1/12.ts
+#EXTINF:-1 group-title="CTGIPTV",EKATTOR TV
+http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
+#EXTINF:-1 group-title="CTGIPTV",INDEPENDENT TV
+http://ctgiptv.kitv.live:1935/live/test/test1/7.ts
+#EXTINF:-1 group-title="CTGIPTV",CHANNEL I
+http://ctgiptv.kitv.live:1935/live/test/test1/14.ts
+#EXTINF:-1 group-title="CTGIPTV",CHANNEL 9
+http://ctgiptv.kitv.live:1935/live/test/test1/15.ts
+#EXTINF:-1 group-title="CTGIPTV",CHANNEL 24
+http://ctgiptv.kitv.live:1935/live/test/test1/16.ts
+#EXTINF:-1 group-title="CTGIPTV",BTV
+http://ctgiptv.kitv.live:1935/live/test/test1/17.ts
+#EXTINF:-1 group-title="CTGIPTV",BANGLA VISION
+http://ctgiptv.kitv.live:1935/live/test/test1/18.ts
+#EXTINF:-1 group-title="CTGIPTV",EKUSHEY TV
+http://ctgiptv.kitv.live:1935/live/test/test1/10.ts
+#EXTINF:-1 group-title="CTGIPTV",JAMUNA TV
+http://ctgiptv.kitv.live:1935/live/test/test1/8.ts
+#EXTINF:-1 group-title="CTGIPTV",RTV
+http://ctgiptv.kitv.live:1935/live/test/test1/3.ts
+#EXTINF:-1 group-title="CTGIPTV",ATN BANGLA
+http://ctgiptv.kitv.live:1935/live/test/test1/19.ts
+#EXTINF:-1 group-title="CTGIPTV",DD-BANGLA
+http://ctgiptv.kitv.live:1935/live/test/test1/89.ts
+#EXTINF:-1 group-title="CTGIPTV",AKASH AATH
+http://ctgiptv.kitv.live:1935/live/test/test1/33.ts
+#EXTINF:-1 group-title="CTGIPTV",Kolkata-TV
+http://ctgiptv.kitv.live:1935/live/test/test1/31.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY AATH
+http://ctgiptv.kitv.live:1935/live/test/test1/29.ts
+#EXTINF:-1 group-title="CTGIPTV",SANGEET BANGLA
+http://ctgiptv.kitv.live:1935/live/test/test1/30.ts
+#EXTINF:-1 group-title="CTGIPTV",STAR JALSHA
+http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
+#EXTINF:-1 group-title="CTGIPTV",ZEE BANGLA
+http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY YAY
+http://ctgiptv.kitv.live:1935/live/test/test1/28.ts
+#EXTINF:-1 group-title="CTGIPTV",NICK
+http://ctgiptv.kitv.live:1935/live/test/test1/43.ts
+#EXTINF:-1 group-title="CTGIPTV",DISENY-CARTOON
+http://ctgiptv.kitv.live:1935/live/test/test1/50.ts
+#EXTINF:-1 group-title="CTGIPTV",CARTOON-NETWORK
+http://ctgiptv.kitv.live:1935/live/test/test1/53.ts
+#EXTINF:-1 group-title="CTGIPTV",ZEE TV
+http://ctgiptv.kitv.live:1935/live/test/test1/71.ts
+#EXTINF:-1 group-title="CTGIPTV",STAR-PLUS
+http://ctgiptv.kitv.live:1935/live/test/test1/73.ts
+#EXTINF:-1 group-title="CTGIPTV",STAR-GOLD
+http://ctgiptv.kitv.live:1935/live/test/test1/74.ts
+#EXTINF:-1 group-title="CTGIPTV",ENTERR 10
+http://ctgiptv.kitv.live:1935/live/test/test1/72.ts
+#EXTINF:-1 group-title="CTGIPTV",ZEE-CINEMA
+http://ctgiptv.kitv.live:1935/live/test/test1/70.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY MIX
+http://ctgiptv.kitv.live:1935/live/test/test1/75.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY HD
+http://ctgiptv.kitv.live:1935/live/test/test1/76.ts
+#EXTINF:-1 group-title="CTGIPTV",SETMAX HD
+http://ctgiptv.kitv.live:1935/live/test/test1/77.ts
+#EXTINF:-1 group-title="CTGIPTV",MUSIC MASTI
+http://ctgiptv.kitv.live:1935/live/test/test1/78.ts
+#EXTINF:-1 group-title="CTGIPTV",MUSIC INDIA
+http://ctgiptv.kitv.live:1935/live/test/test1/79.ts
+#EXTINF:-1 group-title="CTGIPTV",MTV
+http://ctgiptv.kitv.live:1935/live/test/test1/81.ts
+#EXTINF:-1 group-title="CTGIPTV",ETC
+http://ctgiptv.kitv.live:1935/live/test/test1/83.ts
+#EXTINF:-1 group-title="CTGIPTV",E24
+http://ctgiptv.kitv.live:1935/live/test/test1/84.ts
+#EXTINF:-1 group-title="CTGIPTV",Bflix-MOVIE
+http://ctgiptv.kitv.live:1935/live/test/test1/86.ts
+#EXTINF:-1 group-title="CTGIPTV",B4U-MOVIES
+http://ctgiptv.kitv.live:1935/live/test/test1/87.ts
+#EXTINF:-1 group-title="CTGIPTV",B4U MUSIC
+http://ctgiptv.kitv.live:1935/live/test/test1/88.ts
+#EXTINF:-1 group-title="CTGIPTV",Travel-Channel
+http://ctgiptv.kitv.live:1935/live/test/test1/91.ts
+#EXTINF:-1 group-title="CTGIPTV",TLC
+http://ctgiptv.kitv.live:1935/live/test/test1/90.ts
+#EXTINF:-1 group-title="CTGIPTV",Star Movies Select HD
+http://ctgiptv.kitv.live:1935/live/test/test1/42.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY PIX HD
+http://ctgiptv.kitv.live:1935/live/test/test1/41.ts
+#EXTINF:-1 group-title="CTGIPTV",MOVIE HBO
+http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
+#EXTINF:-1 group-title="CTGIPTV",Lifetime
+http://ctgiptv.kitv.live:1935/live/test/test1/46.ts
+#EXTINF:-1 group-title="CTGIPTV",History 2
+http://ctgiptv.kitv.live:1935/live/test/test1/47.ts
+#EXTINF:-1 group-title="CTGIPTV",DIVA HD
+http://ctgiptv.kitv.live:1935/live/test/test1/49.ts
+#EXTINF:-1 group-title="CTGIPTV",DISCOVERY HD
+http://ctgiptv.kitv.live:1935/live/test/test1/51.ts
+#EXTINF:-1 group-title="CTGIPTV",BBC-WORLD
+http://ctgiptv.kitv.live:1935/live/test/test1/54.ts
+#EXTINF:-1 group-title="CTGIPTV",BBC-EARTH
+http://ctgiptv.kitv.live:1935/live/test/test1/55.ts
+#EXTINF:-1 group-title="CTGIPTV",AXN HD
+http://ctgiptv.kitv.live:1935/live/test/test1/57.ts
+#EXTINF:-1 group-title="CTGIPTV",Animal Planet HD WORLD
+http://ctgiptv.kitv.live:1935/live/test/test1/56.ts
+#EXTINF:-1 group-title="CTGIPTV",9XO
+http://ctgiptv.kitv.live:1935/live/test/test1/59.ts
+#EXTINF:-1 group-title="CTGIPTV",REN TV
+http://ctgiptv.kitv.live:1935/live/test/test1/35.ts
+#EXTINF:-1 group-title="CTGIPTV",MUSIC BOX TV
+http://ctgiptv.kitv.live:1935/live/test/test1/37.ts
+#EXTINF:-1 group-title="CTGIPTV",Hum Sitaray
+http://ctgiptv.kitv.live:1935/live/test/test1/20.ts
+#EXTINF:-1 group-title="CTGIPTV",Hum Masala
+http://ctgiptv.kitv.live:1935/live/test/test1/21.ts
+#EXTINF:-1 group-title="CTGIPTV",9X-JALWA
+http://ctgiptv.kitv.live:1935/live/test/test1/22.ts
+#EXTINF:-1 group-title="CTGIPTV",8XM
+http://ctgiptv.kitv.live:1935/live/test/test1/23.ts
+#EXTINF:-1 group-title="CTGIPTV",TEN-1 HD
+http://ctgiptv.kitv.live:1935/live/test/test1/60.ts
+#EXTINF:-1 group-title="CTGIPTV",STAR-SPORTS-1
+http://ctgiptv.kitv.live:1935/live/test/test1/61.ts
+#EXTINF:-1 group-title="CTGIPTV",Star Sports Select 1
+http://ctgiptv.kitv.live:1935/live/test/test1/62.ts
+#EXTINF:-1 group-title="CTGIPTV",STAR SPORTS HD
+http://ctgiptv.kitv.live:1935/live/test/test1/24.ts
+#EXTINF:-1 group-title="CTGIPTV",STAR SPORTS FIRST
+http://ctgiptv.kitv.live:1935/live/test/test1/63.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY-ESPN HD
+http://ctgiptv.kitv.live:1935/live/test/test1/64.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY TEN-2
+http://ctgiptv.kitv.live:1935/live/test/test1/65.ts
+#EXTINF:-1 group-title="CTGIPTV",SONY SIX HD
+http://ctgiptv.kitv.live:1935/live/test/test1/67.ts
+#EXTINF:-1 group-title="CTGIPTV",DSPORTS
+http://ctgiptv.kitv.live:1935/live/test/test1/68.ts
