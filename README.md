@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",Asian TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://scontent.fdac32-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/97077710_3018016651622480_665614171605303296_n.jpg?_nc_cat=104&_nc_sid=7aed08&efg=eyJpIjoiYiJ9&_nc_eui2=AeGXkwEm6Ai3nOcUmU4ZbZ0o6Rs6m6sN82bpGzqbqw3zZtica8Lh6Sz2QEVLeNvzMkpddCr18BkoOCvtx368tHgV&_nc_ohc=SI_1qwNlLsUAX_Vk2_A&_nc_ht=scontent.fdac32-1.fna&tp=14&oh=dee652af4537d08c074dac0ade0ca822&oe=5F7AFAAB" group-title="Bangladeshi by Meraj CS 鉂わ笍",Asian TV
 https://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",,GTV 
 http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
