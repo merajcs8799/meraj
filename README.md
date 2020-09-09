@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Shari",MAASRANGA TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Shari",MAASRANGA TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8
 #EXTINF:-1 group-title="Shari",SOMOY TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/14.m3u8
