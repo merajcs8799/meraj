@@ -116,3 +116,48 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1 ,Sony Max 2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Groups", EKUSHEY TV [BD]
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Groups", NTV [BD]
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="Groups", MOHONA TV [BD]
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Groups", MAASRANGA TV HD [BD]
+http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="Groups", Colors Bangla SD [IN]
+http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Groups", Sony Aath [IN] (1)
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Groups", Zee Bangla Cinema [IN]
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Sony Ten 2
+http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Sony Ten 1
+http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Live Sports 3
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="Groups", BBC News
+http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Groups", Zee Cinema
+http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Groups", SONY Max
+http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Groups", SONY
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups", COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+
