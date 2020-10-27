@@ -113,6 +113,6 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 ,HBO
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
 #EXTINF:-1 ,Star Jalsha HD (২)
-http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1 ,Sony Max 2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
